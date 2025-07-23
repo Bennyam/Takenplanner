@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.userprefs
+*.csproj.user
+
+# ASP.NET artifacts
+appsettings.Development.json
+appsettings.Local.json
+
+# dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# logs
+*.log
+
+# Rider/JetBrains
+.idea/
+
+# Resharper
+*.DotSettings.user
+
+# Optional: npm artifacts (indien later frontend)
+node_modules/
+dist/
+
+# Global.json lockfile
+global.json.lock

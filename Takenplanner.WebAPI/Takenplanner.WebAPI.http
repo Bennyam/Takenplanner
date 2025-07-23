@@ -1,0 +1,6 @@
+@Takenplanner.WebAPI_HostAddress = http://localhost:5197
+
+GET {{Takenplanner.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
